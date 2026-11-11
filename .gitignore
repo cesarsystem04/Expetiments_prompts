@@ -1,0 +1,6 @@
+# ===================================
+# OpenCode
+# Mantener archivos de configuración y agentes
+# ===================================
+!.opencode/
+!.opencode/**
