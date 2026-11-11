@@ -22,3 +22,9 @@ uvx --from pypdf python -c "from pypdf import PdfReader; r=PdfReader('Estado de 
 Comprobar cuanto contenido tiene el mardown 
 
 (Get-Item ".\document.md").Length
+
+
+---
+Subir el repositorio a GITHUB.
+
+git init .
